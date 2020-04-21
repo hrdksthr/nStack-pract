@@ -1,0 +1,22 @@
+.container-header {
+  padding: 0px;
+  margin-bottom: 0;
+  background-color: transparent;
+  line-height: 40px;
+  border-bottom: none;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.container-header .header-title {
+  font-size: 18px;
+  margin: 0;
+  text-transform: capitalize;
+  line-height: 40px;
+  font-family: "Montserrat Semibold";
+}
+.container-header .align-center {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
